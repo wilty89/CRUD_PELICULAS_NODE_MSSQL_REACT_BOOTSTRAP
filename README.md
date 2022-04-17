@@ -1,0 +1,3 @@
+# CRUD_PELICULAS_NODE_MSSQL_REACT
+NODE EXPRESS MSSQL REACT BOOSTRAP
+![Captura](https://user-images.githubusercontent.com/54552489/163702759-7f57a45d-c6c5-42a2-a576-a72d90bdae71.PNG)
